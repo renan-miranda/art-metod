@@ -18,7 +18,6 @@ clean:
 	@mv *.log lixo/
 	@mv *.bbl lixo/
 	@mv *.blg lixo/
-	@mv *.bst lixo/
 remove:
 	@mv *.pdf lixo/
 	@rm -rfv lixo/*
